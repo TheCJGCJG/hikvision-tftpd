@@ -7,7 +7,7 @@ Setup the expected IP address:
 
 Download the firmware to use:
 
-    $ curl -o digicap.dav <url of firmware>
+    $ cp Firmwares/English/B141201-V5.2.5/digicap.dav ./digicap.dav
 
 Run the script:
 
